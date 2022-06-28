@@ -72,15 +72,15 @@ a:hover{
 }
 .bottom-cloud{
   position: absolute;
-  left: 10px;
-  bottom: 250px;
+  left: 20px;
+  bottom: 150px;
 }
 
 .top-cloud{
   margin-top: 50px;
   position: absolute;
-  right: 250px;
-  top: 20px;
+  right: 220px;
+  top: 10px;
 }
 
 .web-development{
